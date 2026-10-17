@@ -1,1 +1,0 @@
-window.BILAL_EXCEL_SOURCE={"revision": "empty-installation", "filename": "Keine Excel-Datei eingebunden", "members": [], "classes": [], "teachers": [], "rooms": [], "interns": [], "worksheets": [], "notes": [], "totals": {"students": 0, "families": 0, "annual": 0, "paid": 0, "open": 0}};
